@@ -50,7 +50,7 @@ int main() {
     //     int res = h.get(keys[i]);
     //     if (res != 0) std::cout << keys[i] << "=" << res << std::endl;
     // }
-    std::cout << "Hello, this is second secret message from aliens" << std::endl;
+    std::cout << "Hello, this is secret message from aliens" << std::endl;
 
     return 0;
 }
